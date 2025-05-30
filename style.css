@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(00, 00, 250, 0,5);
+    width: 100%;
+}
+
+h1 {
+    align-content: center;    
+    color: #33ABDB;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    align-items: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.banner{
+    align-items: center;
+}
+
+.banner-content{
+    background-image: url(assets/images/banner.png);
+    align-items: center;
+}
+
+.logo{
+    align-self: center;
+}
+
+.inscrever{
+    align-items: center;
+    width: 100px;
+    padding: 16px;
+    border-radius: 16px;
+    border: 2px;
+    bottom: 1px;
+    color: #33ABDB;
+    background-color: none;
+}
+
+.transform-world{
+    background-image: url(assets/images/woman-code.png);
+
+}
+
+.main{
+    background-color: black;
+}
+
+.modules-list{
+    align-items: center;
+
+}
+
+.module{
+    align-items: center;
+
+}
+
+span{
+    align-items: center;
+
+}
+
+.dio-logo{
+    align-items: center;
+
+}
